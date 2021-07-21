@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m currently working on __[Jobsy](https://github.com/randy140801/jobsyweb)__.
 - I’m currently learning __Unity__, __PHP__, & __Laravel__.
-- I worked with __C#__ with __ASP.NET FRAMEWORK__, on __Unity__, with __Windows Forms__ and __Console Applications__.
+- I worked with __C#__ with __ASP.NET FRAMEWORK__, __Windows Forms__, __Console Applications__ and __Unity__.
 - I’m looking to collaborate on anything!
 - I really like to team up with my workmates!
 - Ask me about anything, I am happy to help.
