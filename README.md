@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Linkedin](https://www.linkedin.com/in/randy-frias-85624918a/)
+[![Linkedin](https://www.linkedin.com/in/randy-frias-85624918a/)]
 
 &nbsp;
 
