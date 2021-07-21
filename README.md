@@ -15,9 +15,10 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently working on __[Jobsy](https://github.com/randy140801/jobsyweb)__.
 - I’m currently learning __Unity__, __PHP__, & __Laravel__.
 - I’m looking to collaborate on anything!
+- I really like to team up with my workmates!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- How to reach me: __randy140801@gmail.com__
 
 ---
 
