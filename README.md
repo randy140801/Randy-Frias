@@ -21,4 +21,4 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
-[![MongoDB](https://img.shields.io/badge/C Sharp%20-%232370ED.svg?logo=csharp&logoColor=white)](https://gitlab.com/BRdhanani) 
+<img alt="C#" src="https://img.shields.io/badge/C Sharp%20-%232370ED.svg?logo=csharp&logoColor=white">
