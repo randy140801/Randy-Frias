@@ -1,14 +1,6 @@
 <!-- Your title -->
 ## Hello, I'm Randy Frias!
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Linkedin](https://www.linkedin.com/in/randy-frias-85624918a/)]
-
-&nbsp;
-
 <!-- Talking about you -->
 **About Me:**
 
@@ -18,7 +10,6 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on anything!
 - I really like to team up with my workmates!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __randy140801@gmail.com__
 
 ---
@@ -69,11 +60,3 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</a>
-
------
-Credits: [zjayers](https://github.com/zjayers)
-
-Last Edited on: 30/08/2020
